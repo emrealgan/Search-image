@@ -41,11 +41,13 @@ form
     margin-bottom: 2rem;
 }
 input
-{
+{   
+    align-items: center;
     justify-content: center;
     font-size: 1.5rem;
     background: transparent;
     border: none;
+    margin-left: 0.5rem;
 }
 form button
 {

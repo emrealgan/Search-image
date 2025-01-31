@@ -1,4 +1,4 @@
-const keyAccess = "gqYvAklrnHy9zkpX9-5JCf7L56_5l2nIq4r6dY_1Z8E";
+const keyAccess = "your api key";
 const form = document.querySelector("form");
 const searchInput = document.querySelector("form input");
 const unorderedList = document.querySelector("ul");
